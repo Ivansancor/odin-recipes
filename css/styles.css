@@ -1,0 +1,12 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
+h2 {
+    font-size: 16px;
+    font-weight: 500;
+    color: orange;
+}
